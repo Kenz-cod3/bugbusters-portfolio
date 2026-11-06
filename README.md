@@ -1,13 +1,19 @@
 
 # BugBusters — WordPress Professional Portfolio
 
-## Project Overview
+## 🌐 Live Website
+
+**Visit our deployed WordPress Professional Portfolio:**
+
+[https://darkgoldenrod-hare-438191.hostingersite.com](https://darkgoldenrod-hare-438191.hostingersite.com)
+
+## 📌 Project Overview
 
 The BugBusters WordPress Professional Portfolio is a team-developed website created as the final project for the Cloud Computing subject of the Bachelor of Science in Information Technology (BSIT) program.
 
 The portfolio showcases the team's members, skills, projects, and professional information through a customized WordPress website.
 
-## Project Objectives
+## 🎯 Project Objectives
 
 - Develop a professional and responsive team portfolio website.
 - Showcase the skills, projects, and achievements of the team members.
@@ -15,7 +21,7 @@ The portfolio showcases the team's members, skills, projects, and professional i
 - Utilize GitHub for version control and project progress monitoring.
 - Deploy the website using a web hosting platform.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -26,10 +32,10 @@ The portfolio showcases the team's members, skills, projects, and professional i
 | JavaScript | Interactive website functionality and user experience |
 | Git | Version control and tracking project changes |
 | GitHub | Repository hosting and project collaboration |
-| Local (LocalWP) | Local WordPress development environment |
-| Hostinger | Planned website deployment |
+| LocalWP | Local WordPress development environment |
+| Hostinger | Website hosting and deployment |
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 bugbusters-portfolio/
@@ -43,11 +49,17 @@ bugbusters-portfolio/
                     ├── functions.php
                     ├── index.php
                     ├── style.css
+                    ├── images/
+                    │   ├── bugbusters-logoD.png
+                    │   ├── member-01.png
+                    │   ├── member-02.png
+                    │   ├── member-03.png
+                    │   └── member-04.png
                     └── js/
                         └── main.js
 ```
 
-## Theme Files and Functions
+## ⚙️ Theme Files and Functions
 
 | File | Description |
 |---|---|
@@ -55,8 +67,9 @@ bugbusters-portfolio/
 | `index.php` | Contains the main structure and sections of the BugBusters portfolio website. |
 | `style.css` | Defines the website's visual design, layout, typography, colors, and responsive styling. |
 | `js/main.js` | Handles interactive functionality, including mobile navigation, scroll effects, scroll progress, and active navigation highlighting. |
+| `images/` | Stores the team's logo and member profile images. |
 
-## JavaScript Functionality
+## 💻 JavaScript Functionality
 
 The custom JavaScript file enhances the user experience through the following features:
 
@@ -67,33 +80,38 @@ The custom JavaScript file enhances the user experience through the following fe
 - **Active Navigation Highlighting:** Highlights the navigation link corresponding to the section currently in view.
 - **Sliding Navigation Indicator:** Animates an underline beneath the active or hovered navigation link.
 
-## Development Progress
+## 🚀 Development Progress
 
-- [x] Set up local WordPress development environment
-- [x] Create custom WordPress theme
-- [x] Develop initial theme structure and styling
-- [x] Implement custom JavaScript functionality
-- [x] Initialize Git repository
-- [x] Upload custom theme files to GitHub
-- [x] Create project documentation using README.md
-- [ ] Continue website design and customization
-- [ ] Complete portfolio content
-- [ ] Test website responsiveness and functionality
-- [ ] Test website across different browsers
-- [ ] Deploy website to Hostinger
+- [x] Set up local WordPress development environment.
+- [x] Create custom WordPress theme.
+- [x] Develop initial theme structure and styling.
+- [x] Implement custom JavaScript functionality.
+- [x] Initialize Git repository.
+- [x] Upload custom theme files to GitHub.
+- [x] Create project documentation using README.md.
+- [x] Develop portfolio content and team sections.
+- [x] Deploy website to Hostinger.
+- [x] Configure GitHub version control and deployment workflow.
+- [ ] Continue website improvements and customization.
+- [ ] Perform final responsiveness and functionality testing.
+- [ ] Test website across different browsers.
 
-## Team Members
+## 👥 Team Members
 
 *To be updated with the complete names of all group members.*
 
-## Repository
+## 🔗 Repository
 
-GitHub: [https://github.com/Kenz-cod3/bugbusters-portfolio](https://github.com/Kenz-cod3/bugbusters-portfolio)
+**GitHub Repository:**
 
-## Academic Project
+[https://github.com/Kenz-cod3/bugbusters-portfolio](https://github.com/Kenz-cod3/bugbusters-portfolio)
+
+## 🎓 Academic Project
 
 **Bachelor of Science in Information Technology (BSIT)**
 
-Cloud Computing — WordPress Professional Portfolio
+**Subject:** Cloud Computing
 
-Developed by BugBusters Team.
+**Project:** WordPress Professional Portfolio
+
+**Developed by:** BugBusters Team.
