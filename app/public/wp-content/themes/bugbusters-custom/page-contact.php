@@ -26,7 +26,7 @@ $bb_recipients = array(
     'general' => array('label' => 'General Inquiry - BugBusters',  'email' => $bb_contact['email']),
     'justin' => array('label' => 'Justin Harvey Jaraula',        'email' => 'occ.jaraulla.justinharvey@gmail.com'),
     'john'    => array('label' => 'John Micheal Jaranilla',        'email' => 'occ.jaranilla.johnmicheal23@gmail.com'),
-    'kenneth' => array('label' => 'Kenneth Carl Milarpis',         'email' => 'occ.milarpis.kennethcal@gmail.com'),
+    'kenneth' => array('label' => 'Kenneth Carl Milarpis',         'email' => 'occ.milarpis.kennethcarl@gmail.com'),
     'angel'   => array('label' => 'Angel Grace Salingay',           'email' => 'occ.salingay.angelgrace@gmail.com'),
 );
 

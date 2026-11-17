@@ -17,7 +17,7 @@ $bb_member = array(
     'desc'      => 'Turns complex ideas into clear documentation, reports, and user guides for the team.',
     'bio'       => '',                   // <- write a longer "About me" here (empty = uses 'desc')
     'areas'     => array('Technical Writing'),
-    'tags'      => array('Documentation', 'Markdown', 'Google Docs', 'Notion'),
+    'tags'      => array('PowerPoint', 'Grammarly', 'Zotero', 'Word', 'Canva', 'ChatGPT'),
     'projects'  => array(
         // array('title' => 'Project name', 'desc' => 'What it is.', 'url' => 'https://...', 'tags' => array('Laravel', 'MySQL')),
     ),

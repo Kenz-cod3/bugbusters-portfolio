@@ -267,7 +267,7 @@ function bugbusters_chat_knowledge()
                 'name'   => 'Justin Harvey Jaraula',
                 'role'   => 'Technical Writer',
                 'about'  => 'Turns complex ideas into clear documentation, reports, and user guides.',
-                'skills' => 'Documentation, Markdown, Google Docs, Notion',
+                'skills' => 'PowerPoint, Grammarly, Zotero, Word, Canva',
             ),
             array(
                 'slug'   => 'john',

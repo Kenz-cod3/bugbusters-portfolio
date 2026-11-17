@@ -2070,6 +2070,17 @@ html[data-theme="dark"] .preview-three {
 
 .back-top {
   font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.back-top svg {
+  transition: transform 0.2s ease;
+}
+
+.back-top:hover svg {
+  transform: translateY(-3px);
 }
 
 .back-top:hover {

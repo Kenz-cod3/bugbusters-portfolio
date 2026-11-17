@@ -16,7 +16,7 @@ $bb_member = array(
     'desc'      => 'Plans the schedule, guides the team, and keeps every project on track.',
     'bio'       => '',                   // <- write a longer "About me" here (empty = uses 'desc')
     'areas'     => array('Tools & Workflow', 'Project Management'),
-    'tags'      => array('Git', 'GitHub', 'Claude Code', 'ChatGPT', 'Planning', 'Trello', 'Jira', 'Notion'),
+    'tags'      => array('Git', 'GitHub', 'Claude Code', 'ChatGPT', 'Planning', 'draw.io', 'Google Keep', 'Word', 'PowerPoint', 'Google Meet'),
     'projects'  => array(
         // array('title' => 'Project name', 'desc' => 'What it is.', 'url' => 'https://...', 'tags' => array('Laravel', 'MySQL')),
     ),

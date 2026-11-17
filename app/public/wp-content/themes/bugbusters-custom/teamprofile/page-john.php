@@ -19,7 +19,7 @@ $bb_member = array(
     'desc'      => 'Studies requirements and data to make sure every solution solves the right problem.',
     'bio'       => '',                     // <- write a longer "About me" here (empty = uses 'desc')
     'areas'     => array('Backend & Database', 'UI/UX Design'),
-    'tags'      => array('PHP', 'Node.js', 'Python', 'MySQL', 'Figma', 'Wireframing', 'Prototyping'),
+    'tags'      => array('PHP', 'Node.js', 'Python', 'MySQL', 'draw.io', 'Figma', 'Wireframing', 'Prototyping'),
     'projects'  => array(
         // array('title' => 'Project name', 'desc' => 'What it is.', 'url' => 'https://...', 'tags' => array('Laravel', 'MySQL')),
     ),
